@@ -4,13 +4,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Touch+Sovannita;Full-Stack+Developer;Flutter+Developer;Spring+Boot+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-### 💻 Full-Stack Developer from Cambodia 🇰🇭
+### Full-Stack Developer from Cambodia
 
 **Building scalable web and mobile applications with modern technologies.**
 
 <img src="https://komarev.com/ghpvc/?username=m0ohwwa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+
+I'm **SOVANNITA**, a passionate **Full-Stack Developer** from Cambodia who enjoys building modern web and mobile applications that solve real-world problems. I love transforming ideas into reliable, user-friendly software by writing clean, scalable, and maintainable code.
+
+My interests include frontend development, backend engineering, database design, RESTful APIs, and cross-platform mobile development with Flutter. I continuously learn new technologies to improve my skills and build better software every day.
+
+
+
+I am seeking a **Junior Full-Stack Developer** position where I can contribute to real-world projects, collaborate with experienced developers, and continue growing as a software engineer.
+
 
 
 # About Me
@@ -35,16 +45,7 @@ Goal:
 
 
 
-I'm **Touch Sovannita**, a passionate **Full-Stack Developer** from Cambodia who enjoys building modern web and mobile applications that solve real-world problems. I love transforming ideas into reliable, user-friendly software by writing clean, scalable, and maintainable code.
-
-My interests include frontend development, backend engineering, database design, RESTful APIs, and cross-platform mobile development with Flutter. I continuously learn new technologies to improve my skills and build better software every day.
-
-
-
-I am seeking a **Junior Full-Stack Developer** position where I can contribute to real-world projects, collaborate with experienced developers, and continue growing as a software engineer.
-
-
-# Tech Stack
+#                               Tech Stack
 
 <div align="center">
 
